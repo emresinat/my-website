@@ -1,0 +1,8 @@
+{
+  "label": "Görüşmeler",
+  "position": 11,
+  "link": {
+    "type": "doc",
+    "id": "conversations"
+  }
+}

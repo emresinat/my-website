@@ -1,0 +1,4 @@
+
+# Yapay Zekaya Kullanımı Makina’lı Hibrit Mod
+
+Bir konuşma isteğini kabul ettikten sonra eğer takımımıza ait bir Makina var ise gelen kutusu ekranında sağ tarafta ‘Suggested Panel’ açılacak. Açılan bu panelden yapay zekamızın bize önerdiği niyet ve aksiyonları işleterek konuşmalara daha kolay ve hızlı bir biçimde cevap verebileceksiniz. Öncelikle yapay zeka dediğimiz için tedirgin olmayın. En az önceki aşamalar kadar basit ve anlaşılır bir arayüzle sizi karşılıyoruz. Bu aşamada 4 başlık inceleyeceğiz. Bunlardan ilki Makina ile birlikte değişen gelen kutusu ekranı. İkincisi bir niyet ve aksiyonun işletilmesi. Üçüncüsü bir aksiyon cevabının düzenlenmesi. Sonuncusu ise tanımlanamayan niyetler için cevap verilmesi olacak.
